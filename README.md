@@ -44,4 +44,10 @@ This is a **Virtual Mouse** system built with Python, OpenCV, and MediaPipe that
 Install required packages using:
 
 pip install opencv-python mediapipe pyautogui pynput numpy
+---
+
+**Disclaimer**  
+This project is created for educational and personal learning purposes using publicly available open-source resources.  
+If you're the original author of any part and want credit or removal, feel free to contact me.
+
 # Virtual-Mouse
