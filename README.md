@@ -13,6 +13,7 @@ This is a **Virtual Mouse** system built with Python, OpenCV, and MediaPipe that
 -  Drag and Drop gesture
 -  Vertical and Horizontal scrolling gesture
 -  On-screen message display using OpenCV
+-  press 'q' to quit
 
 ---
 
