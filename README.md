@@ -1,4 +1,4 @@
-'''
+
 # Virtual Mouse using Hand Gestures
 
 This is a **Virtual Mouse** system built with Python, OpenCV, and MediaPipe that allows users to **control the mouse cursor** using **hand gestures** detected via webcam. Additional gestures can be used for **left click, right click, double click, drag, scroll**, and even **screenshot**.
