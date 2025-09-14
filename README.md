@@ -34,23 +34,14 @@ This is a **Virtual Mouse** system built with Python, OpenCV, and MediaPipe that
 3. Map **index finger tip position** to mouse position.
 4. Detect gestures based on **finger angles and distances**.
 5. Trigger mouse or keyboard events via **PyAutoGUI** or **pynput**.
-
 ---
-
-
 ##  Requirements
-
 Install required packages using:
-
 pip install opencv-python mediapipe pyautogui pynput numpy
----
-
-
 ##  Mouse Move
 <img width="579" height="326" alt="image" src="https://github.com/user-attachments/assets/3586f1d1-44e8-468c-a044-d2c99c90225f" />
 ##  Requirements
 <img width="596" height="337" alt="image" src="https://github.com/user-attachments/assets/064c1998-060e-44c0-8bf2-d7fb9c8e1dd0" />
----
 ## Left Click
 <img width="596" height="337" alt="image" src="https://github.com/user-attachments/assets/02406a0c-e4b5-4a67-bb35-cb4b6b7a751b" />
 ## Double Click
