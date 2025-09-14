@@ -48,8 +48,7 @@ pip install opencv-python mediapipe pyautogui pynput numpy
 
 ##  Mouse Move
 <img width="579" height="326" alt="image" src="https://github.com/user-attachments/assets/3586f1d1-44e8-468c-a044-d2c99c90225f" />
----
-##  Right Click
+##  Requirements
 <img width="596" height="337" alt="image" src="https://github.com/user-attachments/assets/064c1998-060e-44c0-8bf2-d7fb9c8e1dd0" />
 ---
 ## Left Click
